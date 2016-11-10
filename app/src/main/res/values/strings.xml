@@ -1,0 +1,8 @@
+<resources>
+    <string name="main_home">home</string>
+    <string name="main_news">sale</string>
+    <string name="main_my_info">recommend</string>
+    <string name="menu_search">me</string>
+    <string name="more">MyTran</string>
+    <string name="app_name">MyTransaction</string>
+</resources>
